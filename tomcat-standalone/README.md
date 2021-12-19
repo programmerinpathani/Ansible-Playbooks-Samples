@@ -18,7 +18,7 @@ Application Server running on the ports you chose, on the target machines.
 This is a very simple playbook and could serve as a starting point for more
 complex Tomcat-based projects. 
 
-### Ideas for Improvements
+## Ideas for Improvements
 
 Here are some ideas for ways that these playbooks could be extended:
 
